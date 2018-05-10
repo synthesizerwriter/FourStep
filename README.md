@@ -1,4 +1,4 @@
-#FourStep
+# FourStep
 ****Four-Step Sequencer in Gen for the OWL Pedal****
 
 I've finally got around to delving into Gen the 'next level deeper' bit of MaxForLive or Max, and I'm going to show you how I used Gen to create a simple four-step sequencer patch. Instead of just telling you about what I have made, this time I'm going to show you how I programmed it as well - so 'next level deeper' two ways! This is just an experiment, so what happens next depends on the feedback that I get, or don't get.
@@ -9,4 +9,4 @@ Just as in writing a novel, learning Gen requires something that breaks the hero
 
 At the back of my mind, driving my confident assertion: 'there are ways', were the various hardware platforms that let you program them, not in Max, but in Gen. Things like the MOD Duo, or the Rebel Technology OWL Pedal. After comparing the specifications and the prices, I went for the OWL Pedal as my first test development platform, leaving the MOD Duo as a potential future addition to my portfolio.
 
-![](/images/OWL-pedal-green-light-small-300.png)
+![](/images/OWL-pedal-oblique-seq.png)
